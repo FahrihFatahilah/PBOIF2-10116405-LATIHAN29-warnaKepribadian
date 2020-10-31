@@ -31,14 +31,7 @@ public class WarnaKepribadian {
     public static final String BIRU = "\033[44m";
     public static final String UNGU = "\033[45m";
 
-    /**
-     * @param args the command line arguments
-     * KELAS : PBO 2
-     * NIM : 10116415
-     * Deskripsi program: program ini berisi program untuk menampilkan 
-     * warna Kepribadian
- 
-     */
+    
     public static void main(String[] args) {
         // TODO code application logic here
       String Pilih, Nama;
